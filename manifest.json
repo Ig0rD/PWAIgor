@@ -1,8 +1,8 @@
 {
-  "name": "SiteIgor",
-  "short_name": "SiteIgor",
+  "name": "IgorPWA",
+  "short_name": "IgorPWA",
   "theme_color": "#2196f3",
-  "background_color": "#21f3ed",
+  "background_color": "#2196f3",
   "display": "fullscreen",
   "Scope": "/PWAIgor/blob/master/",
   "start_url": "/PWAIgor/blob/master/",
